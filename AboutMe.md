@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matias Chrystiuk Kondratiuk. Better known as 'Enter' :)
-- 👀 I’m interested in Blockchain, DeFi, Solidity, Farming & Exchanges
+- 👀 I’m interested in Blockchain, DeFi, Solidity, Yield farming, Mining & Exchanges
 - 🌱 I’m currently learning Full-Stack devolpment & Msc. In Blockchain, SmartContracts & CryptoEconomy (have a bachelor's degree in HR too)
 - 📫 How to reach me.. <a>https://www.linkedin.com/in/matias-chrystiuk/</a>
 
